@@ -1,5 +1,5 @@
 function getWeather() {
-    const apiKey = '9038492337364d9ef8196e637af191ed'; //openweathermap.org api key
+    const apiKey = ''; //ur openweathermap.org api key
     const city = document.getElementById('city').value; // city 입력값
 
     if (!city) {
